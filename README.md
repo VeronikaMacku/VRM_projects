@@ -1,2 +1,2 @@
 # VRM_projects
-School assignments.
+School assignments for the subject 'Programming for robots and manipulators'.
